@@ -39,43 +39,43 @@ Throughout my career, I have led projects that significantly boosted customer en
 
 ## 🔧 Projects
 
-### [DataWarehousing-Chicago-Food-inspection](https://github.com/username/DataWarehousing-Chicago-Food-inspection)
+### [DataWarehousing-Chicago-Food-inspection](https://github.com/abhigupta2909/DataWarehousing-Chicago-Food-inspection)
 
 **Description:** A data warehousing project on the Chicago food database using Apache Airflow, Snowflake, and Grafana for data visualization.
 
 - **Technologies:** SQLAlchemy, Apache, Snowflake, Data Visualization, Apache Airflow, Grafana, Python
 
-### [ExpensesMonitoringSystem](https://github.com/username/ExpensesMonitoringSystem)
+### [ExpensesMonitoringSystem](https://github.com/abhigupta2909/ExpensesMonitoringSystem)
 
 **Description:** An expense monitoring system for personal and group expenses.
 
 - **Technologies:** Node.js, JavaScript, Python, Flask, React.js, RESTful API
 
-### [LLMPerformanceLab](https://github.com/username/LLMPerformanceLab)
+### [LLMPerformanceLab](https://github.com/abhigupta2909/LLMPerformanceLab)
 
 **Description:** Performance analysis of Large Language Models (LLMs) on CPU, GPU, Execution Time, and Energy Usage.
 
 - **Technologies:** JavaScript, MySQL, Java, Spring Boot, React.js, Flask-RESTful, HumanEval
 
-### [PlayGround](https://github.com/username/PlayGround)
+### [PlayGround](https://github.com/abhigupta2909/PlayGround)
 
 **Description:** A repository for trying and testing new ideas and technologies.
 
 - **Technologies:** Various (Experimentation Repository)
 
-### [FIFA_Player_replacement_ML_Model](https://github.com/username/FIFA_Player_replacement_ML_Model)
+### [FIFA_Player_replacement_ML_Model](https://github.com/abhigupta2909/FIFA_Player_replacement_ML_Model)
 
 **Description:** Machine Learning model for finding suitable player replacements in FIFA.
 
 - **Technologies:** Various
 
-### [MovieBuff](https://github.com/username/MovieBuff)
+### [MovieBuff](https://github.com/abhigupta2909/MovieBuff)
 
 **Description:** A personal movie database portal.
 
 - **Technologies:** Various
 
-### [DSA](https://github.com/username/DSA)
+### [DSA](https://github.com/abhigupta2909/DSA)
 
 **Description:** A repository for Data Structures and Algorithms practice.
 
