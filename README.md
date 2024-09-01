@@ -39,6 +39,12 @@ Throughout my career, I have led projects that significantly boosted customer en
 
 ## 🔧 Projects
 
+## [Quantum vs. Classical ML: A Performance Showdown](https://github.com/abhigupta2909/Quantum-VS-Classical-AI)
+
+**Description:** This project explores and compares the performance of machine learning algorithms executed on classical and quantum computers. It investigates the potential performance benefits of quantum computing over traditional classical machine learning approaches in terms of accuracy and execution time.
+
+**Technologies:** IBM Quantum Experience, Qiskit Aqua, Python, Scikit-learn, UCI ML Breast Cancer Wisconsin (Diagnostic), UCI ML Wine Dataset
+
 ### [DataWarehousing-Chicago-Food-inspection](https://github.com/abhigupta2909/DataWarehousing-Chicago-Food-inspection)
 
 **Description:** A data warehousing project on the Chicago food database using Apache Airflow, Snowflake, and Grafana for data visualization.
