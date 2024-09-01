@@ -79,7 +79,7 @@ Throughout my career, I have led projects that significantly boosted customer en
 
 **Description:** A personal movie database portal.
 
-- **Technologies:** Various
+- **Technologies:** React, JavaScript, Material UI, The Movie Database (TMDb) API, MongoDB, Express.js.
 
 ### [DSA](https://github.com/abhigupta2909/DSA)
 
