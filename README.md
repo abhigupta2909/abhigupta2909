@@ -49,7 +49,7 @@ Throughout my career, I have led projects that significantly boosted customer en
 
 ## 🔧 Projects
 
-## [Quantum vs. Classical ML: A Performance Showdown](https://github.com/abhigupta2909/Quantum-VS-Classical-AI)
+### [Quantum vs. Classical ML: A Performance Showdown](https://github.com/abhigupta2909/Quantum-VS-Classical-AI)
 
 **Description:** This project explores and compares the performance of machine learning algorithms executed on classical and quantum computers. It investigates the potential performance benefits of quantum computing over traditional classical machine learning approaches in terms of accuracy and execution time.
 
