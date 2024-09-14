@@ -10,6 +10,14 @@ Throughout my career, I have led projects that significantly boosted customer en
 
 ## 💼 Professional Experience
 
+### Health Innovators
+
+
+- **Role:** Full Stack Software Engineer
+- **Duration:** Sep 2024 – Present
+- **Contributions:**
+  - Developing core web feature for Health.ai, an AI-powered health chat application and appointment scheduling system with doctors.
+    
 ### Adobe Systems
 
 - **Role:** Software Engineer II
