@@ -16,8 +16,8 @@ I am a **Software Engineer** specializing in **cloud-native microservices** and 
 
 ## 🎓 Education
 
-- **MS in Computer Science** - Boston University (Sep 2022 – May 2024, 3.73/4.0)
-- **BTech in Computer Science** - VIT University, India (May 2011 – May 2015, 3.66/4.0)
+- **MS in Computer Science** - Boston University
+- **BTech in Computer Science** - VIT University, India
 
 ## 💼 Professional Experience
 
@@ -68,7 +68,7 @@ I am a **Software Engineer** specializing in **cloud-native microservices** and 
 - **Description:** Optimized and compared the performance of **LLMs using Ollama and Hugging Face**, evaluating models like **Llama 2 (13B), Mistral (7B), and Vicuna (13B)**.
 - **Technologies:** Python, Hugging Face, TensorFlow, PyTorch
 
-### [Microservices and Distributed Systems](https://github.com/abhigupta2909/Microservices-Finance-Management)
+### [Microservices and Distributed Systems](https://github.com/abhigupta2909/ExpensesMonitoringSystem)
 - **Description:** Designed a **scalable finance management web application** leveraging **Java, Spring Boot, Python, PostgreSQL, and ReactJS**, implementing **microservices architecture** for enhanced performance and reliability.
 - **Technologies:** Java, Spring Boot, Python, PostgreSQL, React.js
 
