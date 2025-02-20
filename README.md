@@ -54,7 +54,7 @@ I am a **Software Engineer** specializing in **cloud-native microservices** and 
   - Developed a **POC for industrial automation protocol (CIP)**, reducing manual efforts from **weeks to days**.
   - Programmed **Layer 2 and Layer 3 automation protocols** across **Cisco/Rockwell switches and routers**.
 
-## 🛠️ Projects
+## 🛠️ Projects Highlights
 
 ### [Lucene Indexing](https://github.com/abhigupta2909/Lucene-Indexing)
 - **Description:** Developed and optimized **Lucene, Elasticsearch, and brute-force search algorithms** on the **large-scale DBLP dataset**, achieving **90% faster query execution** and improving scalability across indexing methods.
