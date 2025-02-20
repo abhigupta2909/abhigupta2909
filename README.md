@@ -56,9 +56,10 @@ I am a **Software Engineer** specializing in **cloud-native microservices** and 
 
 ## 🛠️ Projects Highlights
 
-### [Lucene Indexing](https://github.com/abhigupta2909/Lucene-Indexing)
-- **Description:** Developed and optimized **Lucene, Elasticsearch, and brute-force search algorithms** on the **large-scale DBLP dataset**, achieving **90% faster query execution** and improving scalability across indexing methods.
-- **Technologies:** Java, Lucene, Elasticsearch, PostgreSQL
+### [Quantum vs. Classical ML: A Performance Showdown](https://github.com/abhigupta2909/Quantum-VS-Classical-AI)
+
+**Description:** This project explores and compares the performance of machine learning algorithms executed on classical and quantum computers. It investigates the potential performance benefits of quantum computing over traditional classical machine learning approaches in terms of accuracy and execution time.
+
 
 ### [Data Warehousing - US Food Database](https://github.com/abhigupta2909/DataWarehousing-Chicago-Food-inspection)
 - **Description:** Built a **data warehousing solution** using **Apache Airflow, Kafka, PostgreSQL, and Grafana** for visualization.
@@ -68,9 +69,37 @@ I am a **Software Engineer** specializing in **cloud-native microservices** and 
 - **Description:** Optimized and compared the performance of **LLMs using Ollama and Hugging Face**, evaluating models like **Llama 2 (13B), Mistral (7B), and Vicuna (13B)**.
 - **Technologies:** Python, Hugging Face, TensorFlow, PyTorch
 
+### [Lucene Indexing](https://github.com/abhigupta2909/Lucene-Indexing)
+- **Description:** Developed and optimized **Lucene, Elasticsearch, and brute-force search algorithms** on the **large-scale DBLP dataset**, achieving **90% faster query execution** and improving scalability across indexing methods.
+- **Technologies:** Java, Lucene, Elasticsearch, PostgreSQL
+
 ### [Microservices and Distributed Systems](https://github.com/abhigupta2909/ExpensesMonitoringSystem)
 - **Description:** Designed a **scalable finance management web application** leveraging **Java, Spring Boot, Python, PostgreSQL, and ReactJS**, implementing **microservices architecture** for enhanced performance and reliability.
 - **Technologies:** Java, Spring Boot, Python, PostgreSQL, React.js
+
+### [FIFA_Player_replacement_Machine Learning_Model](https://github.com/abhigupta2909/FIFA_Player_replacement_ML_Model)
+
+**Description:** Machine Learning model for finding suitable player replacements in FIFA.
+
+- **Technologies:** Various
+
+### [MovieBuff](https://github.com/abhigupta2909/MovieBuff)
+
+**Description:** A personal movie database portal.
+
+- **Technologies:** React, JavaScript, Material UI, The Movie Database (TMDb) API, MongoDB, Express.js.
+
+### [DSA](https://github.com/abhigupta2909/DSA)
+
+**Description:** A repository for Data Structures and Algorithms practice.
+
+- **Technologies:** Various
+
+### [PlayGround](https://github.com/abhigupta2909/PlayGround)
+
+**Description:** A repository for trying and testing new ideas and technologies.
+
+- **Technologies:** Various (Experimentation Repository)
 
 ## 💬 Let's Connect
 
