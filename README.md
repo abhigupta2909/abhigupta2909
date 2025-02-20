@@ -8,7 +8,7 @@ I am a **Software Engineer** specializing in **cloud-native microservices** and 
 
 ## 🌟 Skills
 
-- **Programming Languages:** Java (Proficient), JavaScript (Proficient), TypeScript, Node.js (Proficient), Python (Proficient), Shell Script
+- **Programming Languages:** Java (Proficient), JavaScript (Proficient), TypeScript, Node.js (Proficient), Python (Proficient), Go
 - **Web & Cloud Tech:** RESTful Webservices, AJAX, Spring Boot, Microservices, Express.js, GraphQL, Django, FastAPI, AWS, GCP, React.js, HTTP, HTML, CSS, XML, SOAP
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
 - **Tools:** Jira, Git, Jenkins, Maven, Terraform, Ansible, CI/CD, Kubernetes, JUnit, Mockito, Jest, Selenium, Docker, Kafka, Lambda, EC2, S3, ELK
